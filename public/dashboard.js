@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:3001/analytics';
+const API_BASE = 'https://a-nalystics.vercel.app/analytics';
 
 // Elements
 const els = {
